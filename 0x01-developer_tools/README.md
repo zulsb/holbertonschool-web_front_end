@@ -1,7 +1,8 @@
 # 0x01. Developer tools
 ![](./2-pathways_menu.png)
+
 ## Description
-Set of web creation and debugging tools integrated in browsers. DevTools is used to iterate and debug your site, and to create a profile of it.
+>Set of web creation and debugging tools integrated in browsers. DevTools is used to iterate and debug your site, and to create a profile of it.
 ---
 
 ## Tasks
