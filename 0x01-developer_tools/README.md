@@ -8,9 +8,9 @@ Set of web creation and debugging tools integrated in browsers. DevTools is used
 ---
 
 ## Tasks
-[0. Responsive device](./0-responsive_device.png)
-[1. Change the background color](./1-change_bg_color.png)
-[2. Force element state](./2-pathways_menu.png)
+#### [0. Responsive device](./0-responsive_device.png)
+#### [1. Change the background color](./1-change_bg_color.png)
+#### [2. Force element state](./2-pathways_menu.png)
 ### [3. Copy all the styles of the button](./3-button_styles)
 ### [4. Change button styles](./4-new_buttons.png)
 ### [5. Remove part of the website](./5-deleted_elements.png)
