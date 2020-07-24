@@ -1,4 +1,4 @@
-/* scroll-behavior enables and disables the smooth scroll function */
+/* scroll-behavior enables the smooth scroll function and font size for all fonts */
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
