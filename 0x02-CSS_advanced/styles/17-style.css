@@ -422,7 +422,7 @@ a:active {
 
 .section-footer {
     padding: var(--section-footer-padding);
-    margin: var(--section-footer-align);
+    text-align: var(--section-footer-align);
 }
 
 /* Custom fonts style and margin */
