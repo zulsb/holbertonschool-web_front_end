@@ -472,7 +472,7 @@ ul.row {
 }
 
 [data-section-theme="dark"] {
-    background-color: var(--color-black);
+    background: var(--color-black);
 }
 
 /* Wide and evenly distribute margins */
