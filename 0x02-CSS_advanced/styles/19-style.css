@@ -445,7 +445,7 @@ a:active {
 
 ul.row {
     margin: 0;
-    padding: none;
+    padding: 0;
     list-style: none;
 }
 
@@ -547,7 +547,7 @@ ul.row {
 /* Footer tags section
 ========================================================================== */
 .footer-copyright {
-    margin: none;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
