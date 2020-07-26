@@ -540,12 +540,13 @@ ul.row {
     color: var(--nav-item-link-hover)
 }
 
+/* Footer tags section
+========================================================================== */
+
 .footer {
     padding: var(--footer-padding);
 }
 
-/* Footer tags section
-========================================================================== */
 .footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
