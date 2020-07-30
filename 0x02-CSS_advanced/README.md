@@ -1,11 +1,10 @@
-# 0x02-CSS_advanced
-![](./images/final.png)
+![Banner](banner-css.gif)
 
 ## Description
 
 Customization of HTML page with CSS advanced.
 
----
+![](./images/final.png)
 
 ## Tasks
 #### [0. Let's get some images!](./images/pic-about-01.jpg)
