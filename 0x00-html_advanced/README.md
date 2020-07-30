@@ -1,11 +1,11 @@
 ![Banner](bannerhtml.gif)
-![FinalHTML](finalhtml.png)
 
 ## Description
 
 Using HTML tags to structure a web page without CSS and without style.
 
----
+
+![FinalHTML](finalhtml.png)
 
 ## Tasks
 
