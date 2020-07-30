@@ -4,6 +4,6 @@ $color2: #00FF00;
 
 button {
     color: $color1;
-    :hover {
+    &:hover {
         color: $color2; }
 }
