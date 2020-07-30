@@ -1,11 +1,10 @@
-# 0x01. Developer tools
-![](./2-pathways_menu.png)
+![Banner](banner-dev-tools.gif)
 
 ## Description
 
 Set of web creation and debugging tools integrated in browsers. DevTools is used to iterate and debug your site, and to create a profile of it.
 
----
+![](./2-pathways_menu.png)
 
 ## Tasks
 #### [0. Responsive device](./0-responsive_device.png)
