@@ -1,4 +1,4 @@
-# master-python
+# Web Stack programming - FrontEnd
 ![Banner](bannerprincipal.gif)
 
 ## Description
