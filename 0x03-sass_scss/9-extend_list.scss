@@ -1,0 +1,18 @@
+/* Assign the @extend directive */
+%info-size {
+	font-size: 12px;
+}
+
+.info {
+	@extend %info-size;
+}
+
+.success {
+    color: #00FF00;
+	@extend %info-size;
+}
+
+.warning {
+    color: #FF0000;
+	@extend %info-size;
+}
