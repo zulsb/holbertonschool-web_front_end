@@ -1,0 +1,14 @@
+/* Assign the @import directive to import colors */
+@import "10-colors";
+
+.red {
+	color: $red
+}
+
+.green {
+	color: $green
+}
+
+.blue {
+	color: $blue
+}
