@@ -1,0 +1,14 @@
+/* Assign text color and background color varibles */
+$color: #3D3D3D;
+$background-c: #6D6D6D;
+
+body {
+    color: $color;
+    background-color: $background-c;
+}
+
+p {
+    color: $color }
+
+h2 {
+    background-color: $background-c }
