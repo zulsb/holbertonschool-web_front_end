@@ -19,6 +19,11 @@ Basic functionalities of the Sass and Scss preprocessor for CSS.
 #### [10. Import colors ](./10-import_colors.scss)
 #### [11. For each](./11-loop_photos.scss)
 #### [12. Loop Headers](./12-loop_header.scss)
+
+## Advanced tasks
+#### [13. Columns and operators](./100-loop_col.scss)
+#### [14. Media query #0](./101-media_query.scss)
+#### [15. Media query #1](./102-media_query.scss)
 ---
 
 ## Author
