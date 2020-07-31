@@ -1,4 +1,3 @@
-# Web Stack programming - FrontEnd
 ![Banner](bannerprincipal.gif)
 
 ## Description
@@ -14,6 +13,8 @@ Projects carried out in the specialization Web Stack programming - FrontEnd
 * Set of web creation and debugging tools integrated in browsers.
 #### [0x02. Advanced CSS](./0x02-CSS_advanced)
 * Customization of HTML page with CSS advanced.
+#### [0x03. Sass & Scss](./0x03-sass_scss)
+* learn and practice on the basic functionalities of the Sass preprocessor for CSS.
 
 ---
 
