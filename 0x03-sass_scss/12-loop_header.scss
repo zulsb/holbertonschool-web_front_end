@@ -1,0 +1,4 @@
+/* Use the @for directive to assigns the size of the font used in headers. */
+@for $i from 1 through 5 {
+	h#{$i} { font-size: #{$i}px; }
+}
