@@ -2,7 +2,7 @@
 
 ## Description
 
-Basic functionalities of the Sass preprocessor for CSS.
+Basic functionalities of the Sass and Scss preprocessor for CSS.
 
 ---
 ## Tasks
