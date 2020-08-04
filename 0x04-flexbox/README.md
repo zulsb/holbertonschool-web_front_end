@@ -7,7 +7,7 @@ CSS flexbox layout implementation, use of different properties for the parent el
 
 ---
 ## Tasks
-#### [0. Add display flex](./0-styles.css)[HTML file](./0-index.html)
+#### [0. Add display flex](./0-styles.css) - [HTML file](./0-index.html)
 #### [1. Add new classes on sections](./1-styles.css)(./1-index.html)
 #### [2. Reverse order Latest news cards](./2-styles.css)(./2-index.html)
 #### [3. Simplify services list](./3-styles.css)(./3-index.html)
