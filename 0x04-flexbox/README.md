@@ -1,5 +1,4 @@
-# 0x04-flexbox
-![Banner](banner-flex.gif)
+![Banner](./images/banner-flex.gif)
 
 ## Description
 
