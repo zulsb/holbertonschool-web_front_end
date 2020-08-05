@@ -25,6 +25,7 @@ CSS flexbox layout implementation, use of different properties for the parent el
 ## Advanced tasks
 #### [15. Finalizing the cherry on the cake that is the article "CSS file"](./100-styles.css) - [HTML file](./100-article.html)
 ![](./images/final.png)
+
 ---
 
 ## Author
