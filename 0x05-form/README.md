@@ -3,7 +3,9 @@
 
 The HTML form is a tool whose purpose is to interact with the user, in this project I handled fundamental elements for a basic form for comments in HTML and in CSS, the corresponding styles and validations were provided.
 
-![](./images/final.png)
+<p align="center">
+<img src="./images/final.png">
+</p>
 
 ---
 ## Tasks
