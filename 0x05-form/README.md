@@ -1,6 +1,9 @@
+![Banner](./images/banner-forms.gif)
 ## Description
 
-.
+The HTML form is a tool whose purpose is to interact with the user, in this project I handled fundamental elements for a basic form for comments in HTML and in CSS, the corresponding styles and validations were provided.
+
+![](./images/final.png)
 
 ---
 ## Tasks
