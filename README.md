@@ -6,7 +6,7 @@ Projects carried out in the specialization Web Stack programming - Frontend.
 
 ---
 
-## Projects
+## Content projects
 #### [0x00. Advanced HTML](./0x00-html_advanced)
 * Using HTML tags to structure a web page without CSS and without style.
 #### [0x01. Developer tools](./0x01-developer_tools)
