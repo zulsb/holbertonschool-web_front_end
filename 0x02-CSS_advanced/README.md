@@ -6,7 +6,7 @@ Customization of HTML page with CSS advanced.
 
 ![](./images/final.png)
 
-## Tasks
+## Content
 #### [0. Let's get some images!](./images/pic-about-01.jpg)
 #### [1. Effortless transitions when scrolling](./styles/1-style.css)
 #### [2. Do you know your color values?](./styles/2-style.css)
@@ -47,5 +47,5 @@ Customization of HTML page with CSS advanced.
 - Github: [zulsb](https://github.com/zulsb)
 - Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
 
-Cohort 10
-Colombia - Cali - 2020
+Cohort 10 |
+Cali, Colombia 2020
