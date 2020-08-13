@@ -19,7 +19,8 @@ Projects carried out in the specialization Web Stack programming - Frontend.
 * CSS flexbox layout implementation, use of different properties for the parent element (the flex container) and the child elements (the flex items).
 #### [0x05. Forms](./0x05-form)
 * The HTML form is a tool whose purpose is to interact with the user.
-
+#### [0x06. Responsive design](./0x06-responsive_design)
+* Through flexible structures (flexible containers, flexible images and video) and together with Media Queries specified in CSS, it is possible to adapt a website to the environment of the device in which it is located.
 ---
 
 ## Author
@@ -27,5 +28,4 @@ Projects carried out in the specialization Web Stack programming - Frontend.
 - Github: [zulsb](https://github.com/zulsb)
 - Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
 
-Cohort 10
-Colombia - Cali - 2020
+Cohort 10 Cali, Colombia - 2020
