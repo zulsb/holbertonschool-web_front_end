@@ -7,7 +7,7 @@ Using HTML tags to structure a web page without CSS and without style.
 
 ![FinalHTML](finalhtml.png)
 
-## Tasks
+## Content
 
 #### [0. Create your first webpage](./0-index.html)
 #### [1. Structure your webpage](./1-index.html)
@@ -58,5 +58,5 @@ Using HTML tags to structure a web page without CSS and without style.
 - Github: [zulsb](https://github.com/zulsb)
 - Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
 
-Cohort 10
-Colombia - Cali - 2020
+Cohort 10 |
+Cali, Colombia 2020
