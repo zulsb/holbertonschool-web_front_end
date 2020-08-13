@@ -6,7 +6,7 @@ Set of web creation and debugging tools integrated in browsers. DevTools is used
 
 ![](./2-pathways_menu.png)
 
-## Tasks
+## Content
 #### [0. Responsive device](./0-responsive_device.png)
 #### [1. Change the background color](./1-change_bg_color.png)
 #### [2. Force element state](./2-pathways_menu.png)
@@ -49,5 +49,5 @@ Set of web creation and debugging tools integrated in browsers. DevTools is used
 - Github: [zulsb](https://github.com/zulsb)
 - Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
 
-Cohort 10
-Colombia - Cali - 2020
+Cohort 10 |
+Cali, Colombia 2020
