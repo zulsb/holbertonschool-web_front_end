@@ -24,5 +24,5 @@ The HTML form is a tool whose purpose is to interact with the user, in this proj
 - Github: [zulsb](https://github.com/zulsb)
 - Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
 
-Cohort 10
-Colombia - Cali - 2020
+Cohort 10 |
+Cali, Colombia 2020
