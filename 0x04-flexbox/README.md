@@ -35,5 +35,5 @@ CSS flexbox layout implementation, use of different properties for the parent el
 - Github: [zulsb](https://github.com/zulsb)
 - Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
 
-Cohort 10
-Colombia - Cali - 2020
+Cohort 10 |
+Cali, Colombia 2020
