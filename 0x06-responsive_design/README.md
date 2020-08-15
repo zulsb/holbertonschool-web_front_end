@@ -17,6 +17,17 @@ Through flexible structures (flexible containers, flexible images and video) and
 #### [8. Improve the "Works" section "CSS file"](./08-styles.css) - [HTML file](./08-index.html)
 #### [9. Improve the "Footer" section "CSS file"](./09-styles.css) - [HTML file](./09-index.html)
 #### [10. Fix the top header background "CSS file"](./10-styles.css) - [HTML file](./10-index.html)
+
+## Final result
+<p align="center">
+<img src="./images/final1.png" width="400"/>
+<img src="./images/final2.png" width="400"/>
+<img src="./images/final3.png" width="400"/>
+<img src="./images/final4.png" width="400"/>
+<img src="./images/final5.png" width="400"/>
+</p>
+
+## Advanced content
 #### [11. Make the article page responsive "CSS file"](./100-styles.css) - [HTML file](./100-index.html)
 
 ---
