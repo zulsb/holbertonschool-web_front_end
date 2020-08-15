@@ -19,6 +19,9 @@ Through flexible structures (flexible containers, flexible images and video) and
 #### [10. Fix the top header background "CSS file"](./10-styles.css) - [HTML file](./10-index.html)
 
 ## Final result
+
+Rendering on screen of max-width: 767px.
+
 <p align="center">
 <img src="./images/final1.png" width="400"/>
 <img src="./images/final2.png" width="400"/>
@@ -29,6 +32,14 @@ Through flexible structures (flexible containers, flexible images and video) and
 
 ## Advanced content
 #### [11. Make the article page responsive "CSS file"](./100-styles.css) - [HTML file](./100-index.html)
+
+Rendering on screen of max-width: 767px.
+
+<p align="center">
+<img src="./images/advanced1.png" width="400"/>
+<img src="./images/advanced2.png" width="400"/>
+<img src="./images/advanced3.png" width="400"/>
+</p>
 
 ---
 
