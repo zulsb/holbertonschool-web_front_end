@@ -31,7 +31,7 @@ Rendering on screen of max-width: 767px.
 </p>
 
 ## Advanced content
-#### [11. Make the article page responsive "CSS file"](./100-styles.css) - [HTML file](./100-index.html)
+#### [11. Make the article page responsive "CSS file"](./100-styles.css) - [HTML file](./100-article.html)
 
 Rendering on screen of max-width: 767px.
 
