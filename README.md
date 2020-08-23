@@ -21,6 +21,8 @@ Projects carried out in the specialization Web Stack programming - Frontend.
 * The HTML form is a tool whose purpose is to interact with the user.
 #### [0x06. Responsive design](./0x06-responsive_design)
 * Through flexible structures (flexible containers, flexible images and video) and together with Media Queries specified in CSS, it is possible to adapt a website to the environment of the device in which it is located.
+#### [0x07. Accessibility](./0x07-accessibility)
+* Accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them.
 ---
 
 ## Author
