@@ -1,4 +1,4 @@
-![Banner](bannerprincipal.gif)
+![Banner](https://user-images.githubusercontent.com/7723544/90972326-bb547080-e4dd-11ea-8aff-f43120c31646.gif)
 
 ## Description
 
