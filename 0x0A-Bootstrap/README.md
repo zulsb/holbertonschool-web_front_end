@@ -20,7 +20,7 @@ For this project, I will use Bootstrap 4.4.1 and only the CSS styling part.
 
 #### 5. Show/Hide - screen size --> [HTML file](./5-index.html)
 
-#### 6. Overwrite CSS --> [HTML file](./6-styles.css)
+#### 6. Overwrite CSS --> [CSS file](./6-styles.css)
 
 ---
 
