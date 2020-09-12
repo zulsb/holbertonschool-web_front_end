@@ -4,6 +4,7 @@
 .btn-primary {
   background-color: #E0003C;
   border-color: #E0003C;
+  color: #ffffff;
 }
 
 .btn-primary:hover,
@@ -26,7 +27,7 @@
 .btn-outline-primary:hover,
 .btn-outline-primary:focus,
 .btn-outline-primary:active {
-  color: #ffff;
+  color: #ffffff;
   background-color: #E0003C !important;
   border-color: #E0003C !important;
   outline: none !important;
@@ -36,9 +37,10 @@
   -webkit-box-shadow: none !important;
 }
 
-a:hover,
-a:focus {
+a.text-dark:hover,
+a.text-dark:focus {
   color: #E0003C !important;
+  text-decoration: none;
 }
 
 .text-muted {
@@ -63,6 +65,9 @@ a:focus {
 
 .card-header {
   background-color: #E0003C;
-  color: #ffff;
-  border-radius: 1rem 1rem 0 0 !important;
+  color: #ffffff;  
+}
+
+.card-header:first-child {
+  border-radius: calc(1rem - 1px) calc(1rem - 1px) 0 0;
 }
