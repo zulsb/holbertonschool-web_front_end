@@ -1,10 +1,10 @@
 function countPrimeNumbers() {
-    let limit = 101;
+    let limit = 100;
     let n = [...Array(limit).keys()];
 
-    for (let i = 2; i * i < limit; i++) {
+    for (let i = 2; i * i <= limit; i++) {
         if (n[i] !== "1") {
-            for (let j = i * i; j < limit; j += i) {
+            for (let j = i * i; j <= limit; j += i) {
                 n[j] = "1";
             }
         }
