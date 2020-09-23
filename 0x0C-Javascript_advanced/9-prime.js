@@ -3,7 +3,7 @@ function countPrimeNumbers() {
     let n = [...Array(limit).keys()];
 
     for (let i = 2; i * i <= limit; i++) {
-        if (n[i] !== "x") {
+        if (n[i] != "x") {
             for (let j = i * i; j <= limit; j += i) {
                 n[j] = "x";
             }
