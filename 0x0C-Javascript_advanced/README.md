@@ -5,6 +5,8 @@
 In this project, Javascript functions were created, using lexical Scope, closure, call stack, binding and simple callbacks,
 executed in a web inspector in the "console" tab of the browser.
 
+![Task5](JavaScript-avanzado-task5.png)
+
 ---
 ## Content
 
