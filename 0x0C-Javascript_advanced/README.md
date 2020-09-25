@@ -7,7 +7,7 @@ executed in a web inspector in the "console" tab of the browser.
 
 ![Task5](JavaScript-avanzado-task5.png)
 
----
+
 ## Content
 
 #### 0. Lexical scoping and welcome message --> [JavaScript file](./0-welcome.js)
