@@ -25,4 +25,4 @@ for (let count = 1; count <= 100; count++) {
     countPrimeNumbers();
 }
 let tf = performance.now();
-console.log("Execution time of printing countPrimeNumbers was " + (tf - ts) + " milliseconds.");
+console.log("Execution time of calculating prime numbers 100 times was " + (tf - ts) + " milliseconds.");
