@@ -23,7 +23,7 @@ Projects carried out in the specialization Web Stack programming - Frontend.
 * Through flexible structures (flexible containers, flexible images and video) and together with Media Queries specified in CSS, it is possible to adapt a website to the environment of the device in which it is located.
 #### [0x07. Accessibility](./0x07-accessibility)
 * Accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them.
-#### 0x0A. Bootstrap](./0x0A-Bootstrap)
+#### [0x0A. Bootstrap](./0x0A-Bootstrap)
 * Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
 #### [0x0C. Javascript advanced](./0x0C-Javascript_advanced)
 * Javascript functions were created, using lexical Scope, closure, call stack, binding and simple callbacks, executed in a web inspector in the "console" tab of the browser.
