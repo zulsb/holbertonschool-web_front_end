@@ -2,14 +2,15 @@
 
 ## Description
 
-.
+In this project, Javascript functions were created, using lexical Scope, closure, call stack, binding and simple callbacks,
+executed in a web inspector in the "console" tab of the browser.
 
 ---
 ## Content
 
 #### 0. Lexical scoping and welcome message --> [JavaScript file](./0-welcome.js)
 
-#### 1. Closure Scope Chain --> [JavaScript index file](./1-nested_functions.js)
+#### 1. Closure Scope Chain --> [JavaScript file](./1-nested_functions.js)
 
 #### 2. Closure --> [JavaScript file](./2-function_me.js)
 
