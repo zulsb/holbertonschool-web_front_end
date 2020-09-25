@@ -40,6 +40,8 @@ executed in a web inspector in the "console" tab of the browser.
 
 #### 14. Simple callback --> [JavaScript file](./14-wikipedia.js)
 
+## Advanced content 
+#### 15. Multiple callbacks --> [JavaScript file](./100-stock.js)
 ---
 
 ## Author
