@@ -1,0 +1,61 @@
+{
+	"posts": [{
+			"id": 1,
+			"title": "json-server",
+			"author": "typicode"
+		},
+		{
+			"title": "Masters of War",
+			"author": "Bob Dylan",
+			"id": 2
+		},
+		{
+			"title": "fd",
+			"author": "fffff",
+			"id": 3
+		},
+		{
+			"title": "Surf’s Up",
+			"author": "The Beach Boys",
+			"id": 4
+		},
+		{
+			"title": "Hey Jude",
+			"author": "The Beatles",
+			"id": 5
+		},
+		{
+			"title": "I Still Miss Someone",
+			"author": "Johnny Cash",
+			"id": 6
+		},
+		{
+			"title": "There Is a Light That Never Goes Out",
+			"author": "The Smiths",
+			"id": 7
+		},
+		{
+			"title": "Old Man",
+			"author": "Neil Young",
+			"id": 8
+		},
+		{
+			"title": "Big Yellow Taxi",
+			"author": "Joni Mitchell",
+			"id": 9
+		},
+		{
+			"title": "Mah Nà Mah Nà",
+			"author": "The Muppets",
+			"id": 10
+		}
+	],
+	"comments": [{
+		"id": 1,
+		"body": "some comment",
+		"postId": 1
+	}],
+	"profile": {
+		"name": "typicode"
+	}
+}
