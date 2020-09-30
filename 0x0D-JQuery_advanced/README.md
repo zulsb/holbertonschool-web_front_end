@@ -1,7 +1,9 @@
-![]()
+![JQuery advanced](https://user-images.githubusercontent.com/7723544/94647654-8a264780-02b6-11eb-827e-55b08fbe4469.gif)
+
 
 ## Description
 
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 
 
 ---
