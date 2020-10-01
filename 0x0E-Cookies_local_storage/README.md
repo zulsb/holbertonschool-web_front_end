@@ -7,7 +7,7 @@ Cookies are data, stored in small text files, on your computer and store user in
 ---
 ## Content
 
-#### 0. Create basic cookie --> [HTML file](./0-index.html) - [Package Json](./package.json) and [JavaScript file](./src/index.js)
+#### 0. Create basic cookie --> [HTML file](./0-index.html) - [Package Json](./package-lock.json) and [JavaScript file](./src/index.js)
 
 #### 1. Create cookie with expiration date and specific path --> [HTML file](./1-index.html)
 
