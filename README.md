@@ -28,7 +28,9 @@ Projects carried out in the specialization Web Stack programming - Frontend.
 #### [0x0C. Javascript advanced](./0x0C-Javascript_advanced)
 * Javascript functions were created, using lexical Scope, closure, call stack, binding and simple callbacks, executed in a web inspector in the "console" tab of the browser.
 #### [0x0D. JQuery advanced](./0x0D-JQuery_advanced)
-* 
+* jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+#### [0x0E. Cookies local storage](./0x0E-Cookies_local_storage)
+* Cookies are data, stored in small text files, on your computer and store user information in web pages.
 ---
 
 ## Author
